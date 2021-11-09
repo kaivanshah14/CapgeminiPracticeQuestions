@@ -7,5 +7,5 @@ Sample test cases and complexity have been added in the code file under the comm
 Use this repository to practice and to prepare for Capgemini Coding Round. 
 You can add your own code in different languages to contribute and help others.
 
-*#HappyCoding ✌🏻*
+*#HappyCoding* ✌🏻 <br />
 All the very best!
